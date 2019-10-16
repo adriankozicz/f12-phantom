@@ -3,13 +3,13 @@
  * Zadanie 3 z prezentacji
  * 
  */
-package zadanie2;
+package zadanie3;
 import java.util.Scanner;
 /**
  *
  * @author adex1
  */
-public class Zadanie2 {
+public class Zadanie3 {
 
     public static void main(String[] args) {
          
